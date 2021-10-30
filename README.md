@@ -1,6 +1,6 @@
 # The Meteo App by Eden
 
-**Here is my Meteo App app!** 😁
+**Here is my Live meteo app!** 😁
 
 Get the Meteo around you, or for the next hours and days. The interface is also dynamically changing depending on the moment of the day (day or night) and the current weather (sun, rain, clouds...).
 
