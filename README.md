@@ -8,6 +8,8 @@ Get the Meteo around you, or for the next hours and days. The interface is also 
 
 !! Launch the app using the **live server** / **localhost** (CORS restrictions without server) !!
 
+```npm start ```
+
 ## Built with
 
 - Html, CSS, VanillaJS
